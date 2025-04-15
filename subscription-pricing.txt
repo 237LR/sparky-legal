@@ -1,0 +1,16 @@
+# Sparky Premium Subscription Pricing for App Store Connect
+
+## Monthly Premium - $3.99
+Reference Name: monthly_premium
+Display Name: Monthly Premium
+Description: Full access to Sparky Premium features including unlimited categories, partner sync, and cloud backup.
+
+## Annual Premium - $14.99
+Reference Name: annual_premium
+Display Name: Annual Premium
+Description: Get a year of Premium features at a discounted price (equivalent to $1.25/month). Includes unlimited categories, partner sync, and cloud backup.
+
+## Lifetime Access - $19.99
+Reference Name: lifetime_access
+Display Name: Lifetime Premium
+Description: One-time purchase for permanent access to all Premium features, including unlimited categories, partner sync, cloud backup, and all future premium features. 
